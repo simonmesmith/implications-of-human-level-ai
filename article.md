@@ -1,3 +1,6 @@
+![Evolution into AI](https://raw.githubusercontent.com/simonmesmith/implications-of-human-level-ai/main/article_header.webp)
+_Credit: DALL•E_
+
 # Implications of Human-level Artificial Intelligence
 
 ## Introduction
