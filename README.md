@@ -1,6 +1,6 @@
 # Implications of Human Level AI
 
-The purpose of this repository is to experiment with creating [an article on the implications of human-level AI]([article.md](https://github.com/simonmesmith/implications-of-human-level-ai/blob/main/article.md)) by having AI and humans collaborate on the article.
+The purpose of this repository is to experiment with creating [an article on the implications of human-level AI](https://github.com/simonmesmith/implications-of-human-level-ai/blob/main/article.md) by having AI and humans collaborate on the article.
 
 Claude 3.5 Sonnet created the firstion version as follows:
 
